@@ -22,7 +22,10 @@ public class AtitudeTest {
 
 		public void I_am_on_homepage () throws Throwable{
 
-		System.out.println("e-buyer homepage loaded");
+		System.out.println("JIUOIUO");
+		System.out.println("fgfd");
+		
+		
 
 		}
 		
