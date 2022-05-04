@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="C:/cucumber/hamcrest-core-1.1.jar"/>
 	<classpathentry kind="lib" path="C:/cucumber/jchronic-0.2.6.jar"/>
 	<classpathentry kind="lib" path="C:/cucumber/junit-4.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
