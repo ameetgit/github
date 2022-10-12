@@ -35,6 +35,7 @@ public class AtitudeTest {
 		if(str.equals("Latenights"))
 		{
 			System.out.println("latenight automation");
+			System.out.println("kdjfhs");
 		}
 		
 		if(str.equals("Mornings"))
